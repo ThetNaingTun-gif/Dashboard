@@ -19,6 +19,7 @@
   "homepage": "https://github.com/ThetNaingTun-gif/Dashboard#readme",
   "dependencies": {
     "bootstrap": "^5.2.3",
+    "font-awesome-icons": "^1.6.0",
     "sass": "^1.60.0"
   }
 }
